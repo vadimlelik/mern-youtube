@@ -1,5 +1,5 @@
 {
-  "port": 5000,
-  "jwtSecret":"vadim-cvirko",
-  "mongoUri":"mongodb+srv://vadim:qwert1234@cluster0.yoqd2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "port": 5005,
+  "jwtSecret": "vadim-cvirko",
+  "mongoUri": "mongodb+srv://vadim:qwert1234@cluster0.yoqd2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
